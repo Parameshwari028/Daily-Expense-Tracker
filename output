@@ -1,0 +1,36 @@
+Expense Tracker Menu:
+1. Add Expense
+2. View Expenses
+3. Exit
+Enter your choice: 1
+
+Enter date (YYYY-MM-DD): 2023-06-15
+Enter description: Groceries
+Enter amount: 35.50
+
+Expense Tracker Menu:
+1. Add Expense
+2. View Expenses
+3. Exit
+Enter your choice: 1
+
+Enter date (YYYY-MM-DD): 2023-06-16
+Enter description: Utilities
+Enter amount: 80.25
+
+Expense Tracker Menu:
+1. Add Expense
+2. View Expenses
+3. Exit
+Enter your choice: 2
+
+Expense(date=2023-06-15, description=Groceries, amount=35.5)
+Expense(date=2023-06-16, description=Utilities, amount=80.25)
+
+Expense Tracker Menu:
+1. Add Expense
+2. View Expenses
+3. Exit
+Enter your choice: 3
+
+Goodbye!
